@@ -41,8 +41,8 @@ THEN I find a concise, descriptive title
 
 The following image shows the web application's appearance and functionality:
 
-![code reflector screenshot (layout)] https://github.com/n-flam/nflam_hausaufgabe1/blob/main/nflam_hausaufgabr1.png
+![code refactor screenshot (layout)](https://github.com/n-flam/nflam_hausaufgabe1/blob/main/blob:main/01-html-css-git-homework-demo.png)
 
 ## Result after refactoring the code
 
-nflam_hausaufgabr1.png
+![code refactor screenshot (layout)](https://github.com/n-flam/nflam_hausaufgabe1/blob/main/blob:main/nflam_hausaufgabr1.png yeah what)
