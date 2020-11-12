@@ -7,7 +7,7 @@
 ## Installation
 
 Deployment URL
-https://github.com/n-flam/nflam_hausaufgabe1/index.html
+https://n-flam.github.io/nflam_hausaufgabe1/
 
 GitHun URL
 https://github.com/n-flam/nflam_hausaufgabe1.git
@@ -41,7 +41,7 @@ THEN I find a concise, descriptive title
 
 The following image shows the web application's appearance and functionality:
 
-01-html-css-git-homework-demo.png
+![code reflector screenshot (layout)] https://github.com/n-flam/nflam_hausaufgabe1/blob/main/nflam_hausaufgabr1.png
 
 ## Result after refactoring the code
 
